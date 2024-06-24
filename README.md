@@ -6,7 +6,7 @@ Welcome to my Internship Report! This repository contains a detailed account of 
 
 ## 📂 Table of Contents
 
-  - [🎓 Internship Report - Naufal Darma Yuda Pratama](#-internship-report---naufal-darma-yuda-pratama)
+- [🎓 Internship Report - Naufal Darma Yuda Pratama](#-internship-report---naufal-darma-yuda-pratama)
   - [🌟 Introduction](#-introduction)
   - [📂 Table of Contents](#-table-of-contents)
   - [🙋‍♂️ About Me](#️-about-me)
