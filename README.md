@@ -6,15 +6,18 @@ Welcome to my Internship Report! This repository contains a detailed account of 
 
 ## 📂 Table of Contents
 
-1. [About Me](#about-me)
-2. [Company Overview](#company-overview)
-3. [Internship Objectives](#internship-objectives)
-4. [Projects & Contributions](#projects--contributions)
-5. [Learning Outcomes](#learning-outcomes)
-6. [Challenges & Solutions](#challenges--solutions)
-7. [Acknowledgements](#acknowledgements)
-8. [Conclusion](#conclusion)
-9. [Contact](#contact)
+- [🎓 Internship Report - Naufal Darma Yuda Pratama](#-internship-report---naufal-darma-yuda-pratama)
+  - [🌟 Introduction](#-introduction)
+  - [📂 Table of Contents](#-table-of-contents)
+  - [🙋‍♂️ About Me](#️-about-me)
+  - [🏢 Company Overview](#-company-overview)
+  - [🎯 Internship Objectives](#-internship-objectives)
+  - [🚀 Projects \& Contributions](#-projects--contributions)
+  - [📚 Learning Outcomes](#-learning-outcomes)
+  - [🔧 Challenges \& Solutions](#-challenges--solutions)
+  - [🙏 Acknowledgements](#-acknowledgements)
+  - [🏁 Conclusion](#-conclusion)
+  - [📞 Contact](#-contact)
 
 ## 🙋‍♂️ About Me
 
@@ -65,7 +68,8 @@ Throughout my internship, I gained extensive knowledge and skills, including:
 - **Pemecahan Masalah**: Meningkatkan kemampuan dalam mengidentifikasi dan menyelesaikan masalah teknis melalui pendekatan yang sistematis dan analitis.
 - **Keterampilan Komunikasi dan Kolaborasi**: Berkontribusi secara aktif dalam diskusi tim, berbagi pengetahuan, serta berkolaborasi dengan anggota tim untuk mencapai tujuan proyek bersama secara efektif.
 - **Manajerial Skills**: Memegang peran sebagai Project Manager, bertanggung jawab untuk mengelola sumber daya proyek, memastikan jadwal dan anggaran terpenuhi, serta memfasilitasi komunikasi antara tim pengembang dan stakeholder proyek.
-- 
+-
+
 ## 🔧 Challenges & Solutions
 
 Every project has its challenges. Here are some obstacles I faced and how I overcame them:
@@ -101,9 +105,9 @@ This internship was an invaluable experience that enhanced my skills and prepare
 
 Feel free to reach out to me for any queries or further information:
 
-- **Email**: naufal.d.pratama@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/naufaldarma/
-- **Portfolio**: https://portfolio-naufal.vercel.app/
+- **Email**: <naufal.d.pratama@gmail.com>
+- **LinkedIn**: <https://www.linkedin.com/in/naufaldarma/>
+- **Portfolio**: <https://portfolio-naufal.vercel.app/>
 
 ---
 
