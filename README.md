@@ -6,7 +6,7 @@ Welcome to my Internship Report! This repository contains a detailed account of 
 
 ## 📂 Table of Contents
 
-- [🎓 Internship Report - Naufal Darma Yuda Pratama](#-internship-report---naufal-darma-yuda-pratama)
+  - [🎓 Internship Report - Naufal Darma Yuda Pratama](#-internship-report---naufal-darma-yuda-pratama)
   - [🌟 Introduction](#-introduction)
   - [📂 Table of Contents](#-table-of-contents)
   - [🙋‍♂️ About Me](#️-about-me)
@@ -93,7 +93,7 @@ Every project has its challenges. Here are some obstacles I faced and how I over
 
 I would like to extend my sincere gratitude to:
 
-- **Mentor**: Faza; for their guidance and support.
+- **Mentor**: Fazal Said Wicaksono; for their guidance and support.
 - **Team Members**: Hasan, Hava, Fahran, and Awang for their collaboration and assistance.
 - **University/Institution**: Universitas Negeri Semarang for providing this opportunity.
 
