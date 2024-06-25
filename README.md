@@ -2,7 +2,7 @@
 
 ## 🌟 Introduction
 
-Welcome to my Internship Report! This repository contains a detailed account of my internship experience at **Seven Inc Magang Jogja** from **19 Februari 2024** to *19 Juli 2024]**. Through this internship, I gained valuable insights and practical skills in **Backend Developer**.
+Welcome to my Internship Report! This repository contains a detailed account of my internship experience at **Seven Inc Magang Jogja** from **19 Februari 2024** to **19 Juli 2024**. Through this internship, I gained valuable insights and practical skills in **Backend Developer**.
 
 ## 📂 Table of Contents
 
